@@ -66,7 +66,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN (ACMMM2017) [[paper](https://dl.acm.org/doi/10.1145/3123266.3123422)]
 
 ---
-## 3. Journal (will be updated soon)
+## 3. Journal
 
 - Vehicle Re-Identification by Deep Hidden Multi-View Inference (TIP2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8325486)]
 - Embedding Adversarial Learning for Vehicle Re-Identification (TIP2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8653852)]
@@ -76,7 +76,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - Joint Feature and Similarity Deep Learning for Vehicle Re-identification (IEEE ACCESS 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8424333)]
 
 ---
-## 4. Workshop (will be updated soon)
+## 4. Workshop
 
 - [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW2018)
   - Vehicle Re-Identification With the Space-Time Prior [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)]
