@@ -36,7 +36,7 @@ This is a repository for organizing articles related to person re-identification
 - [VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)] CVPR2019
 - [CityFlow](https://www.aicitychallenge.org/) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] CVPR2019
 - [VehicleX](https://github.com/yorkeyao/VehicleX) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)] ICCV2019
-
+- VRAI [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
 
 ---
 ## 1. Conference
@@ -46,8 +46,7 @@ This is a repository for organizing articles related to person re-identification
 - Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
 - Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-Similar Vehicles (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)]
 - Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)]
-- Vehicle Re-Identification in Aerial Imagery: Dataset and Approach [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
-- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
+- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
 - Vehicle Re-Identification With Viewpoint-Aware Metric Learning (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 - A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
 - Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification (AAAI2018) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16206/16270)]
