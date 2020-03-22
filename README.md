@@ -78,13 +78,13 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ---
 ## 4. Workshop (will be updated soon)
 
-- [[AIC 2018]((http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf))]
-  - Vehicle Re-Identification With the Space-Time Prior (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)]
-  - Unsupervised Vehicle Re-Identification Using Triplet Networks (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)]
-  - Video Analytics in Smart Transportation for the AIC’18 Challenge (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
-  - Graph@FIT Submission to the NVIDIA AI City Challenge 2018 (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Sochor_GraphFIT_Submission_to_CVPR_2018_paper.pdf)]
-  - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
-- [[AIC 2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf)]
+- [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW2018)
+  - Vehicle Re-Identification With the Space-Time Prior [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)]
+  - Unsupervised Vehicle Re-Identification Using Triplet Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)]
+  - Video Analytics in Smart Transportation for the AIC’18 Challenge [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
+  - Graph@FIT Submission to the NVIDIA AI City Challenge 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Sochor_GraphFIT_Submission_to_CVPR_2018_paper.pdf)]
+  - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
+- [[AIC 2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf)] (CVPRW2019)
   - (Rank-1) Multi-camera vehicle tracking and re-identification based on visual and
 spatial-temporal features [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Tan_Multi-camera_vehicle_tracking_and_re-identification_based_on_visual_and_spatial-temporal_CVPRW_2019_paper.pdf)]
   - (Rank-2) Multi-View Vehicle Re-Identification using
