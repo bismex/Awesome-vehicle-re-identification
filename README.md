@@ -78,18 +78,34 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ---
 ## 4. Workshop (will be updated soon)
 
--  Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning (BMVCW 2017) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/Kanac%C4%B1EtAl_BMVC2017WS.pdf)]
--  Deep Hashing with Multi-task Learning for Large-Scale Instance-Level Vehicle Search (ICMEW 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8026274)]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
--  [[paper]()]
+- [[AIC 2018]((http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf))]
+  - Vehicle Re-Identification With the Space-Time Prior (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)]
+  - Unsupervised Vehicle Re-Identification Using Triplet Networks (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)]
+  - Video Analytics in Smart Transportation for the AIC’18 Challenge (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
+  - Graph@FIT Submission to the NVIDIA AI City Challenge 2018 (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Sochor_GraphFIT_Submission_to_CVPR_2018_paper.pdf)]
+  - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection (CVPRW2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
+- [[AIC 2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf)]
+  - (Rank-1) Multi-camera vehicle tracking and re-identification based on visual and
+spatial-temporal features [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Tan_Multi-camera_vehicle_tracking_and_re-identification_based_on_visual_and_spatial-temporal_CVPRW_2019_paper.pdf)]
+  - (Rank-2) Multi-View Vehicle Re-Identification using
+Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Huang_Multi-View_Vehicle_Re-Identification_using_Temporal_Attention_Model_and_Metadata_Re-ranking_CVPRW_2019_paper.pdf)]
+  - (Rank-3) Vehicle Re-identification with Location and Time Stamps [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf)]
+  - (Rank-4) VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Zheng_VehicleNet_Learning_Robust_Feature_Representation_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
+  - (Rank-5) Multi-Camera Vehicle Tracking with Powerful Visual Features and Spatial-Temporal Cue [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/He_Multi-Camera_Vehicle_Tracking_with_Powerful_Visual_Features_and_Spatial-Temporal_Cue_CVPRW_2019_paper.pdf)]
+  - (Rank-8) Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Khorramshahi_Attention_Driven_Vehicle_Re-identification_and_Unsupervised_Anomaly_Detection_for_Traffic_CVPRW_2019_paper.pdf)]
+  - (Rank-13) Partition and Reunion: A Two-Branch Neural Network for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Partition_and_Reunion_A_Two-Branch_Neural_Network_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
+  - (Rank-18) Supervised Joint Domain Learning for Vehicle Re-Identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Liu_Supervised_Joint_Domain_Learning_for_Vehicle_Re-Identification_CVPRW_2019_paper.pdf)]
+  - (Rank-19) Vehicle Re-Identification: Pushing the limits of re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Ayala-Acevedo_Vehicle_Re-Identification_Pushing_the_limits_of_re-identification_CVPRW_2019_paper.pdf)]
+  - (Rank-23) Multi-camera Vehicle Tracking and Re-identification on AI City Challenge 2019 [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chen_Multi-camera_Vehicle_Tracking_and_Re-identification_on_AI_City_Challenge_2019_CVPRW_2019_paper.pdf)]
+  - (Rank-25) Vehicle Re-identification with Learned Representation and Spatial Verification and Abnormality Detection with Multi-Adaptive Vehicle Detectors for Traffic Video Analysis [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Nguyen_Vehicle_Re-identification_with_Learned_Representation_and_Spatial_Verification_and_Abnormality_CVPRW_2019_paper.pdf)]
+  - (Rank-36) Deep Feature Fusion with Multiple Granularity for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Huang_Deep_Feature_Fusion_with_Multiple_Granularity_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
+  - (Rank-45) Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Spanhel_Vehicle_Re-Identifiation_and_Multi-Camera_Tracking_in_Challenging_City-Scale_Environment_CVPRW_2019_paper.pdf)]
+  - (Rank-50) AI City Challenge 2019 – City-Scale Video Analytics for Smart Transportation [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Chang_AI_City_Challenge_2019_--_City-Scale_Video_Analytics_for_Smart_CVPRW_2019_paper.pdf)]
+  - (Rank-51) Multi-Task Mutual Learning for Vehicle Re-Identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Kanaci_Multi-Task_Mutual_Learning_for_Vehicle_Re-Identification_CVPRW_2019_paper.pdf)]
+  - (Rank-54) Comparative Study of Various Losses for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Shankar_Comparative_Study_on_various_Losses_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
+- Others
+  - Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning (BMVCW 2017) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/Kanac%C4%B1EtAl_BMVC2017WS.pdf)]
+  - Deep Hashing with Multi-task Learning for Large-Scale Instance-Level Vehicle Search (ICMEW 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8026274)]
 
 ---
 ## 5. Others (single vehicle)
