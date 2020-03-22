@@ -2,6 +2,11 @@
 
 This is a repository for organizing articles related to person re-identification. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+**Other awesome re-identification**
+
+- [Awesome Person Re-identification](https://github.com/bismex/Awesome-person-re-identification)
+- [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
+
 **People who meet the following criteria are free to request a pull (pull request).**
 - Suggestions for new categories
 - Changes to categories for some articles
