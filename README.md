@@ -30,7 +30,7 @@ This is a repository for organizing articles related to person re-identification
 - [VehicleReId](https://medusa.fit.vutbr.cz/traffic/datasets/) [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)] CVPR2016
 - [PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)] CVPR2016
 - [PKU-VD](https://pkuml.org/resources/pku-vds.html) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)] ICCV2017
-- [PKU-Vehicle]() [[paper](https://ieeexplore.ieee.org/abstract/document/8265213)] TM2018
+- [PKU-Vehicle](https://github.com/PKU-IMRE/PKU-Vehicles) [[paper](https://ieeexplore.ieee.org/abstract/document/8265213)] TM2018
 - [Vehicle-1M](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)] AAAI2018
 - [VRIC](https://qmul-vric.github.io/) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)] GCPR2018
 - [VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)] CVPR2019
