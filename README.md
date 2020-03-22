@@ -118,7 +118,7 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 - Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks [[paper](https://arxiv.org/pdf/1911.05541.pdf)] [[github](https://github.com/icarofua/vehicle-ReId)]
 
 ---
-## 5. Others (single vehicle)
+## 6. Others (single vehicle)
 
 - BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sochor_BoxCars_3D_Boxes_CVPR_2016_paper.pdf)]
 - Background Segmentation for Vehicle Re-Identification [[paper](https://arxiv.org/pdf/1910.06613.pdf)]
@@ -127,7 +127,7 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Visualizing_the_Invisible_Occluded_Vehicle_Segmentation_and_Recovery_ICCV_2019_paper.pdf)]
 
 ---
-## 6. Others (multiple vehicles)
+## 7. Others (multiple vehicles)
 
 - Highway Vehicle Counting in Compressed Domain (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Highway_Vehicle_Counting_CVPR_2016_paper.pdf)]
 - Deep MANTA: A Coarse-To-Fine Many-Task Network for Joint 2D and 3D Vehicle Analysis From Monocular Image (CVPR2017) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chabot_Deep_MANTA_A_CVPR_2017_paper.pdf)]
@@ -136,7 +136,7 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 - Joint Monocular 3D Vehicle Detection and Tracking (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)]
 - Self-supervised Moving Vehicle Tracking with Stereo Sound (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
 
-## 7. Others (code)
+## 8. Others (code)
 - https://github.com/Jakel21/vehicle-ReID-baseline
 - https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_Beihang
 - https://github.com/Simon4Yan/feature_learning
