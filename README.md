@@ -112,6 +112,11 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
   - Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning (BMVCW 2017) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/Kanac%C4%B1EtAl_BMVC2017WS.pdf)]
   - Deep Hashing with Multi-task Learning for Large-Scale Instance-Level Vehicle Search (ICMEW 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8026274)]
 
+## 5. ArXiv
+
+- Vehicle Re-Identification: an Efficient Baseline Using Triplet Embedding [[paper](https://arxiv.org/pdf/1901.01015.pdf)] 
+- Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks [[paper](https://arxiv.org/pdf/1911.05541.pdf)] [[github](https://github.com/icarofua/vehicle-ReId)]
+
 ---
 ## 5. Others (single vehicle)
 
@@ -133,7 +138,6 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 
 ## 7. Others (code)
 - https://github.com/Jakel21/vehicle-ReID-baseline
-- https://github.com/icarofua/vehicle-ReId
 - https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_Beihang
 - https://github.com/Simon4Yan/feature_learning
 
