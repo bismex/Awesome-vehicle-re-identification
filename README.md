@@ -36,60 +36,30 @@ This is a repository for organizing articles related to person re-identification
 - [VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)] CVPR2019
 - [CityFlow](https://www.aicitychallenge.org/) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] CVPR2019
 - [VehicleX](https://github.com/yorkeyao/VehicleX) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)] ICCV2019
-- VRAI [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)]
+- VRAI [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)] ICCV2019
 
 ---
 ## 1. Conference
 
-- Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)]
+- Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)] [[github](https://github.com/csyizhou/Vehicle-Re-ID)]
 - Part-Regularized Near-Duplicate Vehicle Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
-- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)]
+- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] [[github](https://github.com/Zhongdao/VehicleReIDKeyPointData)]
 - Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-Similar Vehicles (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)]
 - Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)]
-- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)]
+- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)] [[github](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation)]
 - Vehicle Re-Identification With Viewpoint-Aware Metric Learning (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 - A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
 - Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification (AAAI2018) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16206/16270)]
 - Vehicle re-identification by adversarial bi-directional LSTM network (WACV2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8354181)]
 
 ---
-## 2. Journal
+## 2. Journal (will be updated soon)
 
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
 - [[paper]()]
 
 ---
-## 3. Workshop
+## 3. Workshop (will be updated soon)
 
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
 - [[paper]()]
 
 ---
@@ -100,20 +70,6 @@ This is a repository for organizing articles related to person re-identification
 - CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Reddy_CarFusion_Combining_Point_CVPR_2018_paper.pdf)]
 - Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery 
 (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Visualizing_the_Invisible_Occluded_Vehicle_Segmentation_and_Recovery_ICCV_2019_paper.pdf)]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
 
 ---
 ## 5. Others (multiple vehicles)
@@ -124,15 +80,13 @@ This is a repository for organizing articles related to person re-identification
 - Delving Into Robust Object Detection From Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Delving_Into_Robust_Object_Detection_From_Unmanned_Aerial_Vehicles_A_ICCV_2019_paper.pdf)]
 - Joint Monocular 3D Vehicle Detection and Tracking (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)]
 - Self-supervised Moving Vehicle Tracking with Stereo Sound (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
-- [[paper]()]
 
 
 ---
+## Reference
+
+- https://github.com/bismex/Awesome-person-re-identification
+- https://github.com/layumi/Vehicle_reID-Collection
+- https://github.com/knwng/awesome-vehicle-re-identification
+- https://github.com/VehicleReId/VeRidataset
+
