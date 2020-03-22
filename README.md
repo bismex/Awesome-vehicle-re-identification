@@ -74,7 +74,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ## 3. Journal
 
 - Vehicle Re-Identification by Deep Hidden Multi-View Inference (TIP2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8325486)]
-- Embedding Adversarial Learning for Vehicle Re-Identification (TIP2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8653852)]
+- Embedding Adversarial Learning for Vehicle Re-Identification (TIP2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8653852)] [[github](https://github.com/yanbai1993/Embedding_GAN)]
 - VR-PROUD: Vehicle Re-identification using Progressive Unsupervised Deep Architecture (PR2019) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)]
 - PROVID: Progressive and Multimodal Vehicle Re-identification for Large-Scale Urban Surveillance (TMM2018) [[paper](https://ieeexplore.ieee.org/document/8036238)]
 - Vehicle Re-Identification Using Quadruple Directional Deep Learning Features (TITS2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8667847/)]
