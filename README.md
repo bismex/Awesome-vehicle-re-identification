@@ -94,7 +94,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
   - (Rank-1) Multi-camera vehicle tracking and re-identification based on visual and spatial-temporal features [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Tan_Multi-camera_vehicle_tracking_and_re-identification_based_on_visual_and_spatial-temporal_CVPRW_2019_paper.pdf)] [[github](https://github.com/wzgwzg/AICity)]
   - (Rank-2) Multi-View Vehicle Re-Identification using
 Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Huang_Multi-View_Vehicle_Re-Identification_using_Temporal_Attention_Model_and_Metadata_Re-ranking_CVPRW_2019_paper.pdf)] [[github](https://github.com/ipl-uw/2019-CVPR-AIC-Track-2-UWIPL)]
-  - (Rank-3) Vehicle Re-identification with Location and Time Stamps [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf)]
+  - (Rank-3) Vehicle Re-identification with Location and Time Stamps [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf)] [[github](https://github.com/Simon4Yan/feature_learning)]
   - (Rank-4) VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Zheng_VehicleNet_Learning_Robust_Feature_Representation_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
   - (Rank-5) Multi-Camera Vehicle Tracking with Powerful Visual Features and Spatial-Temporal Cue [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/He_Multi-Camera_Vehicle_Tracking_with_Powerful_Visual_Features_and_Spatial-Temporal_Cue_CVPRW_2019_paper.pdf)] [[github](https://github.com/he010103/Traffic-Brain)]
   - (Rank-8) Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Khorramshahi_Attention_Driven_Vehicle_Re-identification_and_Unsupervised_Anomaly_Detection_for_Traffic_CVPRW_2019_paper.pdf)]
@@ -139,7 +139,6 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 ## 8. Others (code)
 - https://github.com/Jakel21/vehicle-ReID-baseline
 - https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_Beihang
-- https://github.com/Simon4Yan/feature_learning
 
 ---
 ## Reference
