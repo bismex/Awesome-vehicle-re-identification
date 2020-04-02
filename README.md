@@ -116,6 +116,7 @@ Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thec
 
 - Vehicle Re-Identification: an Efficient Baseline Using Triplet Embedding [[paper](https://arxiv.org/pdf/1901.01015.pdf)] 
 - Vehicle Re-identification: exploring feature fusion using multi-stream convolutional networks [[paper](https://arxiv.org/pdf/1911.05541.pdf)] [[github](https://github.com/icarofua/vehicle-ReId)]
+- Stripe-based and Attribute-aware Network: A Two-Branch Deep Model for Vehicle Re-identification [[paper](https://arxiv.org/pdf/1910.05549.pdf)]
 
 ---
 ## 6. Others (single vehicle)
