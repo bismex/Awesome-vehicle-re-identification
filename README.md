@@ -48,6 +48,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ---
 ## 2. Conference
 
+- Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification (CVPR2020) [[paper](https://arxiv.org/pdf/2004.05021.pdf)]
 - Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)] [[github](https://github.com/csyizhou/Vehicle-Re-ID)]
 - Part-Regularized Near-Duplicate Vehicle Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
 - Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] [[github](https://github.com/Zhongdao/VehicleReIDKeyPointData)]
