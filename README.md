@@ -17,7 +17,7 @@ This is a repository for organizing articles related to person re-identification
 
 ***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
 - Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
-- Check the preprint at **[arxiv](https://arxiv.org/abs/1912.01230)**
+- Check the paper at **[open access](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)**
 
 ***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
 - Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
