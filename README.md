@@ -98,23 +98,23 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ## 4. Workshop
 
 
-**2020**
+**2017**
 
-- [[AIC 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Naphade_The_4th_AI_City_Challenge_CVPRW_2020_paper.pdf)] (CVPRW2020)
-  - (Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zheng_Going_Beyond_Real_Data_A_Robust_Visual_Representation_for_Vehicle_CVPRW_2020_paper.pdf)] [[github](https://github.com/layumi/AICIty-reID-2020)]
-  - (Rank-2) VOC-ReID: Vehicle Re-Identification Based on Vehicle-Orientation-Camera [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhu_VOC-ReID_Vehicle_Re-Identification_Based_on_Vehicle-Orientation-Camera_CVPRW_2020_paper.pdf)] [[github](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)]
-  - (Rank-3) Multi-Domain Learning and Identity Mining for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_Multi-Domain_Learning_and_Identity_Mining_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] [[github](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)]
-  - (Rank-4) Large Scale Vehicle Re-Identification by Knowledge Transfer From Simulated Data and Temporal Attention [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Eckstein_Large_Scale_Vehicle_Re-Identification_by_Knowledge_Transfer_From_Simulated_Data_CVPRW_2020_paper.pdf)] [[github](https://github.com/corner100/2020-aicitychallenge-IOSB-VeRi)]
-  - (Rank-7) Towards Real-Time Systems for Vehicle Re-Identification, Multi-Camera Tracking, and Anomaly Detection [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Peri_Towards_Real-Time_Systems_for_Vehicle_Re-Identification_Multi-Camera_Tracking_and_Anomaly_CVPRW_2020_paper.pdf)]
-  - (Rank-15) Viewpoint-Aware Channel-Wise Attentive Network for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chen_Viewpoint-Aware_Channel-Wise_Attentive_Network_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
-  - (Rank-19) Further Non-Local and Channel Attention Networks for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Liu_Further_Non-Local_and_Channel_Attention_Networks_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
-  - (Rank-20) Dual Embedding Expansion for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Sebastian_Dual_Embedding_Expansion_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
-  - (Rank-26) iTASK - Intelligent Traffic Analysis Software Kit [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Tran_iTASK_-_Intelligent_Traffic_Analysis_Software_Kit_CVPRW_2020_paper.pdf)] [[github](https://github.com/selab-hcmus/AI_City_2020)]
-  - (Rank-27) StRDAN: Synthetic-to-Real Domain Adaptation Network for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Lee_StRDAN_Synthetic-to-Real_Domain_Adaptation_Network_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
-  - (Rank-30) Vehicle Re-Identification in Multi-Camera Scenarios Based on Ensembling Deep Learning Features [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Moral_Vehicle_Re-Identification_in_Multi-Camera_Scenarios_Based_on_Ensembling_Deep_Learning_CVPRW_2020_paper.pdf)]
-  - (General) Vehicle Re-Identification Based on Complementary Features [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Gao_Vehicle_Re-Identification_Based_on_Complementary_Features_CVPRW_2020_paper.pdf)] [[github](https://github.com/gggcy/AIC2020_ReID)]
-  - (General) Attribute-Guided Feature Extraction and Augmentation Robust Learning for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhuge_Attribute-Guided_Feature_Extraction_and_Augmentation_Robust_Learning_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] [[github](https://github.com/zgcr/AICITY2020_track2_reid_BeBetter)]
-  - (General) AI City Challenge 2020 - Computer Vision for Smart Transportation Applications [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chang_AI_City_Challenge_2020_-_Computer_Vision_for_Smart_Transportation_CVPRW_2020_paper.pdf)]
+- Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning (BMVCW 2017) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/Kanac%C4%B1EtAl_BMVC2017WS.pdf)]
+- Deep Hashing with Multi-task Learning for Large-Scale Instance-Level Vehicle Search (ICMEW 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8026274)]
+
+
+**2018**
+
+- [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW2018)
+  - Vehicle Re-Identification With the Space-Time Prior [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)] [[github](https://github.com/cw1204772/AIC2018_iamai)]
+  - Unsupervised Vehicle Re-Identification Using Triplet Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)] [[github](https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_LasPalmas)]
+  - Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)] [[github](https://github.com/zhengthomastang/2018AICity_TeamUW)]
+  - Video Analytics in Smart Transportation for the AIC’18 Challenge [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
+  - Graph@FIT Submission to the NVIDIA AI City Challenge 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Sochor_GraphFIT_Submission_to_CVPR_2018_paper.pdf)]
+  - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
+  
+
 
 **2019**
 
@@ -137,21 +137,25 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
   - (Rank-54) Comparative Study of Various Losses for Vehicle Re-identification [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Shankar_Comparative_Study_on_various_Losses_for_Vehicle_Re-identification_CVPRW_2019_paper.pdf)]
 
 
-**2018**
+**2020**
 
-- [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW2018)
-  - Vehicle Re-Identification With the Space-Time Prior [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)] [[github](https://github.com/cw1204772/AIC2018_iamai)]
-  - Unsupervised Vehicle Re-Identification Using Triplet Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)] [[github](https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_LasPalmas)]
-  - Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)] [[github](https://github.com/zhengthomastang/2018AICity_TeamUW)]
-  - Video Analytics in Smart Transportation for the AIC’18 Challenge [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Chang_Video_Analytics_in_CVPR_2018_paper.pdf)]
-  - Graph@FIT Submission to the NVIDIA AI City Challenge 2018 [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Sochor_GraphFIT_Submission_to_CVPR_2018_paper.pdf)]
-  - Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Xu_Dual-Mode_Vehicle_Motion_CVPR_2018_paper.pdf)]
-  
-**2017**
+- [[AIC 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Naphade_The_4th_AI_City_Challenge_CVPRW_2020_paper.pdf)] (CVPRW2020)
+  - (Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zheng_Going_Beyond_Real_Data_A_Robust_Visual_Representation_for_Vehicle_CVPRW_2020_paper.pdf)] [[github](https://github.com/layumi/AICIty-reID-2020)]
+  - (Rank-2) VOC-ReID: Vehicle Re-Identification Based on Vehicle-Orientation-Camera [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhu_VOC-ReID_Vehicle_Re-Identification_Based_on_Vehicle-Orientation-Camera_CVPRW_2020_paper.pdf)] [[github](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)]
+  - (Rank-3) Multi-Domain Learning and Identity Mining for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_Multi-Domain_Learning_and_Identity_Mining_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] [[github](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)]
+  - (Rank-4) Large Scale Vehicle Re-Identification by Knowledge Transfer From Simulated Data and Temporal Attention [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Eckstein_Large_Scale_Vehicle_Re-Identification_by_Knowledge_Transfer_From_Simulated_Data_CVPRW_2020_paper.pdf)] [[github](https://github.com/corner100/2020-aicitychallenge-IOSB-VeRi)]
+  - (Rank-7) Towards Real-Time Systems for Vehicle Re-Identification, Multi-Camera Tracking, and Anomaly Detection [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Peri_Towards_Real-Time_Systems_for_Vehicle_Re-Identification_Multi-Camera_Tracking_and_Anomaly_CVPRW_2020_paper.pdf)]
+  - (Rank-15) Viewpoint-Aware Channel-Wise Attentive Network for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chen_Viewpoint-Aware_Channel-Wise_Attentive_Network_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
+  - (Rank-19) Further Non-Local and Channel Attention Networks for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Liu_Further_Non-Local_and_Channel_Attention_Networks_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
+  - (Rank-20) Dual Embedding Expansion for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Sebastian_Dual_Embedding_Expansion_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
+  - (Rank-26) iTASK - Intelligent Traffic Analysis Software Kit [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Tran_iTASK_-_Intelligent_Traffic_Analysis_Software_Kit_CVPRW_2020_paper.pdf)] [[github](https://github.com/selab-hcmus/AI_City_2020)]
+  - (Rank-27) StRDAN: Synthetic-to-Real Domain Adaptation Network for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Lee_StRDAN_Synthetic-to-Real_Domain_Adaptation_Network_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
+  - (Rank-30) Vehicle Re-Identification in Multi-Camera Scenarios Based on Ensembling Deep Learning Features [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Moral_Vehicle_Re-Identification_in_Multi-Camera_Scenarios_Based_on_Ensembling_Deep_Learning_CVPRW_2020_paper.pdf)]
+  - (General) Vehicle Re-Identification Based on Complementary Features [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Gao_Vehicle_Re-Identification_Based_on_Complementary_Features_CVPRW_2020_paper.pdf)] [[github](https://github.com/gggcy/AIC2020_ReID)]
+  - (General) Attribute-Guided Feature Extraction and Augmentation Robust Learning for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhuge_Attribute-Guided_Feature_Extraction_and_Augmentation_Robust_Learning_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] [[github](https://github.com/zgcr/AICITY2020_track2_reid_BeBetter)]
+  - (General) AI City Challenge 2020 - Computer Vision for Smart Transportation Applications [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Chang_AI_City_Challenge_2020_-_Computer_Vision_for_Smart_Transportation_CVPRW_2020_paper.pdf)]
 
-- Others
-  - Vehicle Re-Identification by Fine-Grained Cross-Level Deep Learning (BMVCW 2017) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/Kanac%C4%B1EtAl_BMVC2017WS.pdf)]
-  - Deep Hashing with Multi-task Learning for Large-Scale Instance-Level Vehicle Search (ICMEW 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8026274)]
+---
 
 ## 5. ArXiv
 
