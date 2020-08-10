@@ -94,6 +94,9 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - VR-PROUD: Vehicle Re-identification using Progressive Unsupervised Deep Architecture (PR2019) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)]
 - Vehicle Re-Identification Using Quadruple Directional Deep Learning Features (TITS2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8667847/)]
 
+**2020**
+- VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification (TMM2020) [[paper](https://arxiv.org/abs/2004.06305)]
+
 ---
 ## 4. Workshop
 
