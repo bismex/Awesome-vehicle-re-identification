@@ -80,6 +80,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification (ECCV2020) [[paper](https://arxiv.org/pdf/2004.06271.pdf)]
 - Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV2020) 
 - Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification (CVPR2020) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.pdf)]
+- Disentangled Feature Learning Network for Vehicle Re-Identification (IJCAI2020) [[paper](https://www.ijcai.org/Proceedings/2020/66)]
 
 ---
 ## 3. Journal
