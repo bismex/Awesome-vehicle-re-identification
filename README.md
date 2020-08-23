@@ -44,7 +44,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - [[CityFlow](https://www.aicitychallenge.org/)] A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] 
 - [[VehicleX](https://github.com/yorkeyao/VehicleX)] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)] 
 - [VRAI] Vehicle Re-identification in Aerial Imagery: Dataset and Approach (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)] 
-- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Synthesizing Content Consistent Vehicle Datasets with Attribute Descent (ECCV2020) [[paper](https://arxiv.org/pdf/1912.08855.pdf)]
+- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV2020) [[paper](https://arxiv.org/pdf/1912.08855.pdf)]
 
 ---
 ## 2. Conference
