@@ -44,7 +44,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - [[CityFlow](https://www.aicitychallenge.org/)] A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] 
 - [[VehicleX](https://github.com/yorkeyao/VehicleX)] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)] 
 - [VRAI] Vehicle Re-identification in Aerial Imagery: Dataset and Approach (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)] 
-- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV2020) [[paper](https://arxiv.org/pdf/1912.08855.pdf)]
+- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
 
 ---
 ## 2. Conference
@@ -77,8 +77,8 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - Vehicle Re-Identification With Viewpoint-Aware Metric Learning (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 
 **2020**
-- The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification (ECCV2020) [[paper](https://arxiv.org/pdf/2004.06271.pdf)]
-- Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV2020) 
+- The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590358.pdf)]
+- Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470324.pdf)]
 - Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification (CVPR2020) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.pdf)]
 - Disentangled Feature Learning Network for Vehicle Re-Identification (IJCAI2020) [[paper](https://www.ijcai.org/Proceedings/2020/66)]
 
