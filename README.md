@@ -13,17 +13,6 @@ This is a repository for organizing articles related to person re-identification
 - Corrections to the statistical tables
 - Additions of a summary or performance
 
-***I am currently studying as a visiting researcher at Carnegie Mellon University. So please email me if you are interested in collaborative research among those interested in re-identification in Pittsburgh or another city in the United States.***
-
-***My person re-identification paper accepted to CVPR2020! See you in Seattle!*** 
-- Feel free to visit my **[homepage](https://sites.google.com/site/seokeonchoi/)**
-- Check the paper at **[open access](http://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)**
-
-***I plan to receive a doctoral degree in Dec. 2020 or Jun. 2021. I'm currently looking for a full-time job, residency program, or post-doc.***
-- Feel free to visit my **[linkedin](https://www.linkedin.com/in/seokeon/)**
-
-### :high_brightness: Updated 2020-03-22
-- This repository was created.
 
 ---
 
