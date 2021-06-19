@@ -72,7 +72,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 - Disentangled Feature Learning Network for Vehicle Re-Identification (IJCAI2020) [[paper](https://www.ijcai.org/Proceedings/2020/66)]
 
 **2021**
-- PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR2021)
+- PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
 
 
 ---
