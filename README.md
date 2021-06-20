@@ -4,8 +4,8 @@ This is a repository for organizing articles related to person re-identification
 
 **Other awesome re-identification**
 
-- [Awesome Person Re-identification](https://github.com/bismex/Awesome-person-re-identification)
-- [Awesome Cross-modality Person Re-identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
+- [Awesome Person Re-Identification](https://github.com/bismex/Awesome-person-re-identification)
+- [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
 
 **People who meet the following criteria are free to request a pull (pull request).**
 - Suggestions for new categories
