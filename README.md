@@ -18,80 +18,80 @@ This is a repository for organizing articles related to person re-identification
 
 ## 1. Dataset and benchmark
 
-- [[StanfordCars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)] 3D Object Representations for Fine-Grained Categorization (ICCV2013) [[paper](http://ai.stanford.edu/~jkrause/papers/3drr13.pdf)] 
-- [[CompCars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)] A Large-Scale Car Dataset for Fine-Grained Categorization and Verification (CVPR2015) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)] 
-- [[VeRi-776](https://github.com/VehicleReId/VeRidataset)] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)] 
-- [[VehicleReId](https://medusa.fit.vutbr.cz/traffic/research-topics/detection-of-vehicles-and-datasets/vehicle-re-identification-for-automatic-video-traffic-surveillance-ats-cvpr-2016/)] Vehicle Re-Identification for Automatic Video Traffic Surveillance (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)] 
-- [[PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html)] Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)] 
+- [[StanfordCars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)] 3D Object Representations for Fine-Grained Categorization (ICCV 2013) [[paper](http://ai.stanford.edu/~jkrause/papers/3drr13.pdf)] 
+- [[CompCars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)] A Large-Scale Car Dataset for Fine-Grained Categorization and Verification (CVPR 2015) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)] 
+- [[VeRi-776](https://github.com/VehicleReId/VeRidataset)] A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)] 
+- [[VehicleReId](https://medusa.fit.vutbr.cz/traffic/research-topics/detection-of-vehicles-and-datasets/vehicle-re-identification-for-automatic-video-traffic-surveillance-ats-cvpr-2016/)] Vehicle Re-Identification for Automatic Video Traffic Surveillance (CVPR 2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w25/papers/Zapletal_Vehicle_Re-Identification_for_CVPR_2016_paper.pdf)] 
+- [[PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html)] Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles (CVPR 2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf)] 
 - [[PKU-VD](https://pkuml.org/resources/pku-vds.html)] Exploiting Multi-Grain Ranking Constraints for Precisely Searching
-Visually-similar Vehicles (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)] 
-- [[PKU-Vehicle](https://github.com/PKU-IMRE/PKU-Vehicles)] Group-Sensitive Triplet Embedding for Vehicle Reidentification (TMM2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8265213)] 
-- [[Vehicle-1M](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm)] Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification (AAAI2018) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)] 
+Visually-similar Vehicles (ICCV 2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yan_Exploiting_Multi-Grain_Ranking_ICCV_2017_paper.pdf)] 
+- [[PKU-Vehicle](https://github.com/PKU-IMRE/PKU-Vehicles)] Group-Sensitive Triplet Embedding for Vehicle Reidentification (TMM 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8265213)] 
+- [[Vehicle-1M](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/Vehicle1M.htm)] Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification (AAAI 2018) [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16206/16270)] 
 - [[VRIC](https://qmul-vric.github.io/)] Vehicle Re-Identification in Context (GCPR2018) [[paper](http://www.eecs.qmul.ac.uk/~xiatian/papers/AytacEtAl_GCPR2018.pdf)] 
 - [[VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild)] A Large Dataset and a New Method for
-Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)] 
-- [[CityFlow](https://www.aicitychallenge.org/)] A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] 
+Vehicle Re-Identification in the Wild (CVPR 2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lou_VERI-Wild_A_Large_Dataset_and_a_New_Method_for_Vehicle_CVPR_2019_paper.pdf)] 
+- [[CityFlow](https://www.aicitychallenge.org/)] A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification (CVPR 2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_CityFlow_A_City-Scale_Benchmark_for_Multi-Target_Multi-Camera_Vehicle_Tracking_and_CVPR_2019_paper.pdf)] 
 - [[VehicleX](https://github.com/yorkeyao/VehicleX)] PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_PAMTRI_Pose-Aware_Multi-Task_Learning_for_Vehicle_Re-Identification_Using_Highly_Randomized_ICCV_2019_paper.pdf)] 
-- [VRAI] Vehicle Re-identification in Aerial Imagery: Dataset and Approach (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)] 
-- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
+- [VRAI] Vehicle Re-identification in Aerial Imagery: Dataset and Approach (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Vehicle_Re-Identification_in_Aerial_Imagery_Dataset_and_Approach_ICCV_2019_paper.pdf)] 
+- [[VehicleX](https://github.com/yorkeyao/VehicleX)] Simulating Content Consistent Vehicle Datasets with Attribute Descent (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510766.pdf)]
 
 ---
 ## 2. Conference
 
 **2016**
-- Large-Scale Vehicle Re-identification in Urban Surveillance Videos (ICME2016) [[paper](https://ieeexplore.ieee.org/abstract/document/7553002)]
-- A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
+- Large-Scale Vehicle Re-identification in Urban Surveillance Videos (ICME 2016) [[paper](https://ieeexplore.ieee.org/abstract/document/7553002)]
+- A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance (ECCV 2016) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_53)]
 
 **2017**
-- Vehicle Re-identification by Fusing Multiple Deep Neural Networks (IPTA2017) [[paper](https://ieeexplore.ieee.org/document/8310090)]
-- Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN (ACMMM2017) [[paper](https://dl.acm.org/doi/10.1145/3123266.3123422)]
-- Multi-modal Metric Learning for Vehicle Re-identification in Traffic Surveillance Environment (ICIP2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8296683)]
-- Improving Triplet-wise Training of Convolutional Neural Network for Vehicle Re-identification (ICME2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8019491)]
-- Cross-View GAN Based Vehicle Generation for Re-identification (BMVC2017) [[paper](http://www.bmva.org/bmvc/2017/papers/paper186/paper186.pdf)]
-- Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)]
-- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] [[github](https://github.com/Zhongdao/VehicleReIDKeyPointData)]
+- Vehicle Re-identification by Fusing Multiple Deep Neural Networks (IPTA 2017) [[paper](https://ieeexplore.ieee.org/document/8310090)]
+- Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN (ACMMM 2017) [[paper](https://dl.acm.org/doi/10.1145/3123266.3123422)]
+- Multi-modal Metric Learning for Vehicle Re-identification in Traffic Surveillance Environment (ICIP 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8296683)]
+- Improving Triplet-wise Training of Convolutional Neural Network for Vehicle Re-identification (ICME 2017) [[paper](https://ieeexplore.ieee.org/abstract/document/8019491)]
+- Cross-View GAN Based Vehicle Generation for Re-identification (BMVC 2017) [[paper](http://www.bmva.org/bmvc/2017/papers/paper186/paper186.pdf)]
+- Learning Deep Neural Networks for Vehicle Re-ID With Visual-Spatio-Temporal Path Proposals (ICCV 2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Shen_Learning_Deep_Neural_ICCV_2017_paper.pdf)]
+- Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification (ICCV 2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)] [[github](https://github.com/Zhongdao/VehicleReIDKeyPointData)]
 
 **2018**
-- RAM: A Region-Aware Deep Model for Vehicle Re-identification (ICME2018) [[paper](https://arxiv.org/pdf/1806.09283.pdf)] [[github](https://github.com/liu-xb/RAM)]
-- Multi-Attribute Driven Vehicle Re-Identification with Spatial-Temporal Re-Ranking (ICIP2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8451776/)]
-- Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification (ICPR2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8545584)]
-- VP-ReID: vehicle and person re-identification system (ICMR2018) [[paper](https://dl.acm.org/doi/abs/10.1145/3206025.3206086?casa_token=TTQysSgzCg8AAAAA:INn7N2om4MXYnKe8f7WzxR5LNKOcw6rrLNwOHS5aPNGHowX0Yydf1FB_tUX46BJedWnzqNlevwY)]
-- Vehicle re-identification by adversarial bi-directional LSTM network (WACV2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8354181)]
-- Fast Vehicle Identification via Ranked Semantic Sampling based Embedding (IJCAI2018) [[paper](https://pdfs.semanticscholar.org/8233/5202deecc8d6b8d275cad63287bc3ba032cf.pdf)]
-- Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)] [[github](https://github.com/csyizhou/Vehicle-Re-ID)]
+- RAM: A Region-Aware Deep Model for Vehicle Re-identification (ICME 2018) [[paper](https://arxiv.org/pdf/1806.09283.pdf)] [[github](https://github.com/liu-xb/RAM)]
+- Multi-Attribute Driven Vehicle Re-Identification with Spatial-Temporal Re-Ranking (ICIP 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8451776/)]
+- Joint Semi-supervised Learning and Re-ranking for Vehicle Re-identification (ICPR 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8545584)]
+- VP-ReID: vehicle and person re-identification system (ICMR 2018) [[paper](https://dl.acm.org/doi/abs/10.1145/3206025.3206086?casa_token=TTQysSgzCg8AAAAA:INn7N2om4MXYnKe8f7WzxR5LNKOcw6rrLNwOHS5aPNGHowX0Yydf1FB_tUX46BJedWnzqNlevwY)]
+- Vehicle re-identification by adversarial bi-directional LSTM network (WACV 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8354181)]
+- Fast Vehicle Identification via Ranked Semantic Sampling based Embedding (IJCAI 2018) [[paper](https://pdfs.semanticscholar.org/8233/5202deecc8d6b8d275cad63287bc3ba032cf.pdf)]
+- Viewpoint-Aware Attentive Multi-View Inference for Vehicle Re-Identification (CVPR 2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)] [[github](https://github.com/csyizhou/Vehicle-Re-ID)]
 
 **2019**
-- Part-Regularized Near-Duplicate Vehicle Re-Identification (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
-- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)] [[github](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation)]
-- Vehicle Re-Identification With Viewpoint-Aware Metric Learning (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
+- Part-Regularized Near-Duplicate Vehicle Re-Identification (CVPR 2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Part-Regularized_Near-Duplicate_Vehicle_Re-Identification_CVPR_2019_paper.pdf)]
+- A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Khorramshahi_A_Dual-Path_Model_With_Adaptive_Attention_for_Vehicle_Re-Identification_ICCV_2019_paper.pdf)] [[github](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation)]
+- Vehicle Re-Identification With Viewpoint-Aware Metric Learning (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chu_Vehicle_Re-Identification_With_Viewpoint-Aware_Metric_Learning_ICCV_2019_paper.pdf)]
 
 **2020**
-- The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590358.pdf)]
-- Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470324.pdf)]
-- Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification (CVPR2020) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.pdf)]
-- Disentangled Feature Learning Network for Vehicle Re-Identification (IJCAI2020) [[paper](https://www.ijcai.org/Proceedings/2020/66)]
+- The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590358.pdf)]
+- Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network (ECCV 2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470324.pdf)]
+- Parsing-Based View-Aware Embedding Network for Vehicle Re-Identification (CVPR 2020) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meng_Parsing-Based_View-Aware_Embedding_Network_for_Vehicle_Re-Identification_CVPR_2020_paper.pdf)]
+- Disentangled Feature Learning Network for Vehicle Re-Identification (IJCAI 2020) [[paper](https://www.ijcai.org/Proceedings/2020/66)]
 
 **2021**
-- PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
-- Self-Supervised Geometric Features Discovery via Interpretable Attention for Vehicle Re-Identification and Beyond (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
-- Heterogeneous Relational Complement for Vehicle Re-Identification (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
+- PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
+- Self-Supervised Geometric Features Discovery via Interpretable Attention for Vehicle Re-Identification and Beyond (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
+- Heterogeneous Relational Complement for Vehicle Re-Identification (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
 
 
 ---
 ## 3. Journal
 
 **2018**
-- PROVID: Progressive and Multimodal Vehicle Re-identification for Large-Scale Urban Surveillance (TMM2018) [[paper](https://ieeexplore.ieee.org/document/8036238)] [[github](https://vehiclereid.github.io/VeRi/)]
+- PROVID: Progressive and Multimodal Vehicle Re-identification for Large-Scale Urban Surveillance (TMM 2018) [[paper](https://ieeexplore.ieee.org/document/8036238)] [[github](https://vehiclereid.github.io/VeRi/)]
 - Joint Feature and Similarity Deep Learning for Vehicle Re-identification (IEEE ACCESS 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8424333)]
-- Vehicle Re-Identification by Deep Hidden Multi-View Inference (TIP2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8325486)]
+- Vehicle Re-Identification by Deep Hidden Multi-View Inference (TIP 2018) [[paper](https://ieeexplore.ieee.org/abstract/document/8325486)]
 
 **2019**
-- Embedding Adversarial Learning for Vehicle Re-Identification (TIP2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8653852)] [[github](https://github.com/yanbai1993/Embedding_GAN)]
-- VR-PROUD: Vehicle Re-identification using Progressive Unsupervised Deep Architecture (PR2019) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)]
-- Vehicle Re-Identification Using Quadruple Directional Deep Learning Features (TITS2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8667847/)]
+- Embedding Adversarial Learning for Vehicle Re-Identification (TIP 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8653852)] [[github](https://github.com/yanbai1993/Embedding_GAN)]
+- VR-PROUD: Vehicle Re-identification using Progressive Unsupervised Deep Architecture (PR 2019) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300147)]
+- Vehicle Re-Identification Using Quadruple Directional Deep Learning Features (TITS 2019) [[paper](https://ieeexplore.ieee.org/abstract/document/8667847/)]
 
 **2020**
-- VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification (TMM2020) [[paper](https://arxiv.org/abs/2004.06305)]
+- VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification (TMM 2020) [[paper](https://arxiv.org/abs/2004.06305)]
 
 ---
 ## 4. Workshop
@@ -105,7 +105,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 
 **2018**
 
-- [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW2018)
+- [[AIC 2018](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)] (CVPRW 2018)
   - Vehicle Re-Identification With the Space-Time Prior [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)] [[github](https://github.com/cw1204772/AIC2018_iamai)]
   - Unsupervised Vehicle Re-Identification Using Triplet Networks [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)] [[github](https://github.com/NVIDIAAICITYCHALLENGE/2018AICITY_LasPalmas)]
   - Single-Camera and Inter-Camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf)] [[github](https://github.com/zhengthomastang/2018AICity_TeamUW)]
@@ -117,7 +117,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 
 **2019**
 
-- [[AIC 2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf)] (CVPRW2019)
+- [[AIC 2019](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf)] (CVPRW 2019)
   - (Rank-1) Multi-camera vehicle tracking and re-identification based on visual and spatial-temporal features [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Tan_Multi-camera_vehicle_tracking_and_re-identification_based_on_visual_and_spatial-temporal_CVPRW_2019_paper.pdf)] [[github](https://github.com/wzgwzg/AICity)]
   - (Rank-2) Multi-View Vehicle Re-Identification using Temporal Attention Model and Metadata Re-ranking [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Huang_Multi-View_Vehicle_Re-Identification_using_Temporal_Attention_Model_and_Metadata_Re-ranking_CVPRW_2019_paper.pdf)] [[github](https://github.com/ipl-uw/2019-CVPR-AIC-Track-2-UWIPL)]
   - (Rank-3) Vehicle Re-identification with Location and Time Stamps [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Lv_Vehicle_Re-Identification_with_Location_and_Time_Stamps_CVPRW_2019_paper.pdf)] [[github](https://github.com/Simon4Yan/feature_learning)]
@@ -138,7 +138,7 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 
 **2020**
 
-- [[AIC 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Naphade_The_4th_AI_City_Challenge_CVPRW_2020_paper.pdf)] (CVPRW2020)
+- [[AIC 2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Naphade_The_4th_AI_City_Challenge_CVPRW_2020_paper.pdf)] (CVPRW 2020)
   - (Rank-1) Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zheng_Going_Beyond_Real_Data_A_Robust_Visual_Representation_for_Vehicle_CVPRW_2020_paper.pdf)] [[github](https://github.com/layumi/AICIty-reID-2020)]
   - (Rank-2) VOC-ReID: Vehicle Re-Identification Based on Vehicle-Orientation-Camera [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/Zhu_VOC-ReID_Vehicle_Re-Identification_Based_on_Vehicle-Orientation-Camera_CVPRW_2020_paper.pdf)] [[github](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)]
   - (Rank-3) Multi-Domain Learning and Identity Mining for Vehicle Re-Identification [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_Multi-Domain_Learning_and_Identity_Mining_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)] [[github](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)]
@@ -166,21 +166,21 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 ---
 ## 6. Others (single vehicle)
 
-- BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sochor_BoxCars_3D_Boxes_CVPR_2016_paper.pdf)]
+- BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition (CVPR 2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Sochor_BoxCars_3D_Boxes_CVPR_2016_paper.pdf)]
 - Background Segmentation for Vehicle Re-Identification [[paper](https://arxiv.org/pdf/1910.06613.pdf)]
-- CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles (CVPR2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Reddy_CarFusion_Combining_Point_CVPR_2018_paper.pdf)]
+- CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles (CVPR 2018) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Reddy_CarFusion_Combining_Point_CVPR_2018_paper.pdf)]
 - Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery 
 (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Visualizing_the_Invisible_Occluded_Vehicle_Segmentation_and_Recovery_ICCV_2019_paper.pdf)]
 
 ---
 ## 7. Others (multiple vehicles)
 
-- Highway Vehicle Counting in Compressed Domain (CVPR2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Highway_Vehicle_Counting_CVPR_2016_paper.pdf)]
-- Deep MANTA: A Coarse-To-Fine Many-Task Network for Joint 2D and 3D Vehicle Analysis From Monocular Image (CVPR2017) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chabot_Deep_MANTA_A_CVPR_2017_paper.pdf)]
-- FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras (ICCV2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_FCN-rLSTM_Deep_Spatio-Temporal_ICCV_2017_paper.pdf)]
-- Delving Into Robust Object Detection From Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Delving_Into_Robust_Object_Detection_From_Unmanned_Aerial_Vehicles_A_ICCV_2019_paper.pdf)]
-- Joint Monocular 3D Vehicle Detection and Tracking (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)]
-- Self-supervised Moving Vehicle Tracking with Stereo Sound (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
+- Highway Vehicle Counting in Compressed Domain (CVPR 2016) [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_Highway_Vehicle_Counting_CVPR_2016_paper.pdf)]
+- Deep MANTA: A Coarse-To-Fine Many-Task Network for Joint 2D and 3D Vehicle Analysis From Monocular Image (CVPR 2017) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chabot_Deep_MANTA_A_CVPR_2017_paper.pdf)]
+- FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras (ICCV 2017) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_FCN-rLSTM_Deep_Spatio-Temporal_ICCV_2017_paper.pdf)]
+- Delving Into Robust Object Detection From Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Delving_Into_Robust_Object_Detection_From_Unmanned_Aerial_Vehicles_A_ICCV_2019_paper.pdf)]
+- Joint Monocular 3D Vehicle Detection and Tracking (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Joint_Monocular_3D_Vehicle_Detection_and_Tracking_ICCV_2019_paper.pdf)]
+- Self-supervised Moving Vehicle Tracking with Stereo Sound (ICCV 2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)]
 
 ## 8. Others (code)
 - https://github.com/Jakel21/vehicle-ReID-baseline
