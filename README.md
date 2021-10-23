@@ -73,6 +73,8 @@ Vehicle Re-Identification in the Wild (CVPR2019) [[paper](http://openaccess.thec
 
 **2021**
 - PhD Learning: Learning With Pompeiu-Hausdorff Distances for Video-Based Vehicle Re-Identification (CVPR2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_PhD_Learning_Learning_With_Pompeiu-Hausdorff_Distances_for_Video-Based_Vehicle_Re-Identification_CVPR_2021_paper.pdf)]
+- Self-Supervised Geometric Features Discovery via Interpretable Attention for Vehicle Re-Identification and Beyond (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Self-Supervised_Geometric_Features_Discovery_via_Interpretable_Attention_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
+- Heterogeneous Relational Complement for Vehicle Re-Identification (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Heterogeneous_Relational_Complement_for_Vehicle_Re-Identification_ICCV_2021_paper.pdf)]
 
 
 ---
